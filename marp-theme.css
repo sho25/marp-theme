@@ -1,0 +1,30 @@
+/* @theme myconfig */
+
+@import 'default';
+
+section {
+    font-family: "Arial", "Hiragino Maru Gothic ProN";
+    font-size: 45px;
+    padding: 40px;
+}
+
+section.title {
+    padding: 20px;
+    text-align: center;
+}
+
+section.title h1 {
+    color: #3981BB;
+    padding: 20px;
+    font-size: 70px;
+}
+
+section.slides {
+    justify-content: start;
+}
+
+section.slides h1 {
+    color: #3981BB;
+    font-size: 70px;
+    left: 500px; top: 500px;
+}
